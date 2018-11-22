@@ -1,11 +1,10 @@
 # web3-tutorial
-# Web3 资源汇总
 
 * [x] [Web3 Design Principles](https://medium.com/@lyricalpolymath/web3-design-principles-f21db2f240c1)
 
 
-<h1 align="center"><a href="https://github.com/liuchengxu/blockchain-tutorial/wiki">Opinioned Blockchain Reading List</a></h1>
-<p align="center">A collection of blockchain resources.</p>
+<h1 align="center">Web3 学习资源及教程汇总</h1>
+<p align="center">A collection of web3 resources.</p>
 
 Wiki 维护了一个阅读列表: [Opinioned Blockchain Reading List](https://github.com/liuchengxu/blockchain-tutorial/wiki), 我会整理一些值得阅读研究的资源，大部分是英文的，欢迎贡献对应的中文资源。
 
