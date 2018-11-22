@@ -17,6 +17,7 @@ Web3 Tutorial
 ## 翻译文章列表
 
 * [x] [Web3 Design Principles](https://medium.com/@lyricalpolymath/web3-design-principles-f21db2f240c1)
+* [x] [Why the Web 3.0 Matters and you should know about it](https://medium.com/@matteozago/why-the-web-3-0-matters-and-you-should-know-about-it-a5851d63c949)
 
 
 ## 加入交流
