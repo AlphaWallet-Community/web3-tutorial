@@ -8,9 +8,7 @@
 Web3 Tutorial
 ===================
 
-:point_right: [目录]
-
-访问平台
+:point_right: 访问平台
 
 - 洛书 Lorbook: https://lorbook.com
 - AlphaWallet：https://community.alphawallet.com
